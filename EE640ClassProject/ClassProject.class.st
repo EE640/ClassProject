@@ -1,5 +1,5 @@
 "
-I represent the information about the class project for EE640.
+I represent the information about the class project for EE640. It's an Object-Oriented design project.
 
 "
 Class {
